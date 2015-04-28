@@ -1,0 +1,27 @@
+{
+  "name": "generator-pro",
+  "version": "0.1.0",
+  "description": "A yeoman generator for scaffolding protractor e2e tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eddywashere/generator-pro.git"
+  },
+  "keywords": [
+    "generator",
+    "yeoman",
+    "protractor",
+    "angular",
+    "e2e",
+    "pageobject"
+  ],
+  "author": "eddy hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddywashere/generator-pro/issues"
+  },
+  "homepage": "https://github.com/eddywashere/generator-pro"
+}
